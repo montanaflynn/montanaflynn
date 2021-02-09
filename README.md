@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![stats](https://github-readme-stats.vercel.app/api?username=montanaflynn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=montanaflynn&column=4&margin-w=18&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--

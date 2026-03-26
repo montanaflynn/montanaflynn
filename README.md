@@ -12,13 +12,13 @@ Previously Head of Product at [Kong](https://konghq.com) and Head of Infrastruct
 
 ### Open Source
 
-| Repo | Description |
-|------|-------------|
-| [stats](https://github.com/montanaflynn/stats) | Go statistics library with no dependencies |
-| [asxiv](https://github.com/montanaflynn/asxiv) | AI-powered arXiv paper explorer |
-| [cctop](https://github.com/montanaflynn/cctop) | TUI for monitoring Claude Code sessions |
-| [fdu](https://github.com/montanaflynn/fdu) | Fast disk usage analyzer in Rust |
-| [grail](https://github.com/montanaflynn/grail) | Provider-agnostic Go client for AI |
-| [golang-docker-cache](https://github.com/montanaflynn/golang-docker-cache) | Docker Golang module dependency caching |
-
-[and many more...](https://github.com/montanaflynn?tab=repositories&q=&type=source&language=&sort=)
+<table>
+  <tr><th>Repo</th><th>Description</th></tr>
+  <tr><td><a href="https://github.com/montanaflynn/stats">stats</a></td><td>Go statistics library with no dependencies</td></tr>
+  <tr><td><a href="https://github.com/montanaflynn/asxiv">asxiv</a></td><td>AI-powered arXiv paper explorer</td></tr>
+  <tr><td><a href="https://github.com/montanaflynn/cctop">cctop</a></td><td>TUI for monitoring Claude Code sessions</td></tr>
+  <tr><td><a href="https://github.com/montanaflynn/fdu">fdu</a></td><td>Fast disk usage analyzer in Rust</td></tr>
+  <tr><td><a href="https://github.com/montanaflynn/grail">grail</a></td><td>Provider-agnostic Go client for AI</td></tr>
+  <tr><td><a href="https://github.com/montanaflynn/golang-docker-cache">golang-docker-cache</a></td><td>Docker Golang module dependency caching</td></tr>
+  <tr><td colspan="2"><a href="https://github.com/montanaflynn?tab=repositories&q=&type=source&language=&sort=">and many more...</a></td></tr>
+</table>

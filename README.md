@@ -12,11 +12,13 @@ Previously Head of Product at [Kong](https://konghq.com) and Head of Infrastruct
 
 ### Open Source
 
-| Repo | Stars | Description |
-|------|-------|-------------|
-| [stats](https://github.com/montanaflynn/stats) | 3k+ | Go statistics library with no dependencies |
-| [asxiv](https://github.com/montanaflynn/asxiv) | 240+ | AI-powered arXiv paper explorer |
-| [cctop](https://github.com/montanaflynn/cctop) | — | TUI for monitoring Claude Code sessions |
-| [fdu](https://github.com/montanaflynn/fdu) | — | Fast disk usage analyzer in Rust |
-| [grail](https://github.com/montanaflynn/grail) | — | Provider-agnostic Go client for AI |
-| [golang-docker-cache](https://github.com/montanaflynn/golang-docker-cache) | 68 | Docker Golang module dependency caching |
+| Repo | Description |
+|------|-------------|
+| [stats](https://github.com/montanaflynn/stats) | Go statistics library with no dependencies |
+| [asxiv](https://github.com/montanaflynn/asxiv) | AI-powered arXiv paper explorer |
+| [cctop](https://github.com/montanaflynn/cctop) | TUI for monitoring Claude Code sessions |
+| [fdu](https://github.com/montanaflynn/fdu) | Fast disk usage analyzer in Rust |
+| [grail](https://github.com/montanaflynn/grail) | Provider-agnostic Go client for AI |
+| [golang-docker-cache](https://github.com/montanaflynn/golang-docker-cache) | Docker Golang module dependency caching |
+
+[and many more...](https://github.com/montanaflynn?tab=repositories&q=&type=source&language=&sort=)

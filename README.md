@@ -17,5 +17,6 @@ Previously Head of Product at [Kong](https://konghq.com) and Head of Infrastruct
 - **[cctop](https://github.com/montanaflynn/cctop)** — TUI for monitoring Claude Code sessions
 - **[fdu](https://github.com/montanaflynn/fdu)** — Fast disk usage analyzer in Rust
 - **[grail](https://github.com/montanaflynn/grail)** — Provider-agnostic Go client for AI
-- **[golang-docker-cache](https://github.com/montanaflynn/golang-docker-cache)** — Docker Golang module dependency caching
+- **[openbot](https://github.com/montanaflynn/openbot)** — Autonomous AI agent loop powered by codex-core
+- **[botctl](https://github.com/montanaflynn/botctl)** — Manage persistent AI bots with declarative config
 - [and many more...](https://github.com/montanaflynn?tab=repositories&q=&type=source&language=&sort=)

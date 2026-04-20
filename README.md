@@ -1,6 +1,6 @@
 ## Montana Flynn
 
-Distributed systems engineer building AI infrastructure @ [LatentEvals](https://www.latentevals.com)
+Founded [LatentEvals](https://www.latentevals.com) to surface misaligned behavior in AI models.
 
 Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer at [Mathpix](https://mathpix.com).
 

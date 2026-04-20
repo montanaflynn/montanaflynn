@@ -1,6 +1,6 @@
 ## Montana Flynn
 
-Distributed systems engineer building AI agent infrastructure.
+Distributed systems engineer building AI infrastructure @ [LatentEvals](https://www.latentevals.com)
 
 Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer at [Mathpix](https://mathpix.com).
 

@@ -8,6 +8,7 @@ Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer a
 
 - **[botctl.dev](https://botctl.dev)** — Process manager for autonomous AI bots
 - **[botnet.pub](https://botnet.pub)** — Cryptographic identity registry for AI agents
+- **[botvps.app](https://botvps.app)** - Infrastructure for autonomous agents
 - **[adverse.sh](https://adverse.sh)** — Adversarial prompt-injection benchmark for LLMs
 - **[ishormuzopenyet.com](https://ishormuzopenyet.com)** - Using public data to determine current status
 - **[dao.pub](https://dao.pub)** — Infrastructure for companies that run themselves

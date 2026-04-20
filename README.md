@@ -2,7 +2,7 @@
 
 Distributed systems engineer building AI agent infrastructure.
 
-Previously Head of Product at [Kong](https://konghq.com) and Head of Infrastructure at [Mathpix](https://mathpix.com).
+Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer at [Mathpix](https://mathpix.com).
 
 ### Projects
 

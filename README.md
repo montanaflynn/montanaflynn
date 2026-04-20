@@ -8,9 +8,12 @@ Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer a
 
 - **[botctl.dev](https://botctl.dev)** — process manager for autonomous AI bots
 - **[botnet.pub](https://botnet.pub)** — cryptographic identity registry for AI agents
-- **[dao.pub](https://dao.pub)** — Infrastructure for companies that run themselves
 - **[adverse.sh](https://adverse.sh)** — adversarial prompt-injection benchmark for LLMs
 - **[ishormuzopenyet.com](https://ishormuzopenyet.com)** - use public data to determine current status
+- **[dao.pub](https://dao.pub)** — Infrastructure for companies that run themselves
+- **[momentgenie.com](https://www.momentgenie.com/)** - Turn family photos into custom coloring books
+- **[authkeep.io](https://authkeep.io)** - cryptographically signed relationship attestations
+- **[latentevals.com](https://www.latentevals.com/)** - Finding latent low-frequency model misbehaviors
 
 ### Open Source
 

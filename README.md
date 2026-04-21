@@ -11,7 +11,7 @@ Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer a
 - **[botctl.dev](https://botctl.dev)** — Process manager for AI bots
 - **[botnet.pub](https://botnet.pub)** — Cryptographic identity registry
 - **[botvps.app](https://botvps.app)** - A place for your agent to live
-- **[asxiv](https://asxiv.org/)** — AI-powered arXiv paper explorer
+- **[asxiv.org](https://asxiv.org/)** — AI-powered arXiv paper explorer
 - **[dao.pub](https://dao.pub)** — Companies that run themselves
 - **[momentgenie.com](https://www.momentgenie.com/)** - Turn family photos into custom coloring books
 - **[authkeep.io](https://authkeep.io)** - Cryptographically signed relationship attestations

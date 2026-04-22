@@ -13,6 +13,7 @@ Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer a
 - **[botvps.app](https://botvps.app)** - A place for your agent to live
 - **[asxiv.org](https://asxiv.org/)** — AI-powered arXiv paper explorer
 - **[dao.pub](https://dao.pub)** — Companies that run themselves
+- **[growthchartcalculator.com](https://growthchartcalculator.com/)** — Child growth chart calculator
 - **[momentgenie.com](https://www.momentgenie.com/)** - Turn family photos into custom coloring books
 - **[authkeep.io](https://authkeep.io)** - Cryptographically signed relationship attestations
 - **[latentevals.com](https://www.latentevals.com/)** - Finding latent low-frequency model misbehaviors

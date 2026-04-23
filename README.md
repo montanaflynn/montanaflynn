@@ -21,10 +21,10 @@ Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer a
 ### Open Source
 
 - **[stats](https://github.com/montanaflynn/stats)** — Go statistics library with no dependencies
-- **[ht](https://github.com/montanaflynn/headless-terminal)** - Headless terminal for AI agents to use TUI / CLI
 - **[cctop](https://github.com/montanaflynn/cctop)** — TUI for monitoring Claude Code sessions
 - **[fdu](https://github.com/montanaflynn/fdu)** — Fast disk usage analyzer in Rust
 - **[grail](https://github.com/montanaflynn/grail)** — Provider-agnostic Go client for AI
 - **[openbot](https://github.com/montanaflynn/openbot)** — Autonomous AI agent loop powered by codex-core
 - **[botctl](https://github.com/montanaflynn/botctl)** — Manage persistent AI bots with declarative config
+- **[ht](https://github.com/montanaflynn/headless-terminal)** - Headless terminal for AI agents to use TUI / CLI
 - [and many more...](https://github.com/montanaflynn?tab=repositories&q=&type=source&language=&sort=)

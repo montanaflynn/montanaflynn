@@ -14,7 +14,6 @@ Previously Head of Product at [Kong](https://konghq.com) and Founding Engineer a
 - **[momentgenie.com](https://www.momentgenie.com/)** - Turn family photos into custom coloring books
 - **[authkeep.io](https://authkeep.io)** - Cryptographically signed relationship attestations
 - **[adverse.sh](https://adverse.sh)** — Adversarial benchmark for LLMs
-- **[ishormuzopenyet.com](https://ishormuzopenyet.com)** - Current status from public data
 - **[latentevals.com](https://www.latentevals.com/)** - Finding latent low-frequency model misbehaviors
 - **[growthchartcalculator.com](https://growthchartcalculator.com/)** — Child growth chart calculator
 
